@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RSP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RSP_jar</output-path>
+    <root id="archive" name="RSP.jar">
+      <element id="module-output" name="RSP" />
+    </root>
+  </artifact>
+</component>
